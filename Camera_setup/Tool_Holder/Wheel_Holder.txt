@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-28T14:06:40+01:00
+
+====== Wheel Holder ======
+Created Wednesday 28 October 2020
+
+To be able to quickly create a lot of photos in a consistant way, a wheel is designed to mount 20 tools at once; using a stepper motor and a fixed camera and lighting setup the process of taking images would be automated for every 20 tools. The holder will be 3D printed so a few wheels can be made to be able to swap the wheels with new tools for an efficient dataset creation.
+
+file: [[file:///media/psf/Home/Documents/Lars.nosync/Documents/School/1Ma%20ing/Masterproef/officiele%20documenten/3Dprint/radhouder/radhouder.stl|radhouder]]
