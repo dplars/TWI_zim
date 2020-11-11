@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-10-28T14:06:40+01:00
 
 ====== Wheel Holder ======
@@ -36,5 +36,6 @@ This is whithin the needed displacement range.
 
 This needs adjustment of the current design of the wheel holder also a 3d printed footer can be printed so the wheel can circulate vertically which would make the camera and light setup easier.
 
+===== New tool holder thad makes it possible to insert and remove much easier =====
 
 

@@ -8,3 +8,7 @@ Created woensdag 11 november 2020
 [[+installation]] is done in the way described
 
 A python script for test controlling the camera: [[+cameracontrol]] 
+
+Installation of pip [[+OpenCVinstallation]]
+
+Required packages: [[+requiredPackages]]
