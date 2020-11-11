@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
+Wiki-Format: zim 0.4
 Creation-Date: 2020-11-11T12:21:01+01:00
 
 ====== installation ======
@@ -44,3 +44,15 @@ So click on the gear icon and select "Add Local". In my case, the pyimagesearch 
 Hope it helps!
 
 After this, you are all set. PyCharm will use your pyimagesearch virtual environment and will recognize the OpenCV library.
+
+===== installation on virtual GNU =====
+
+==== opencv install ====
+https://docs.opencv.org/3.4/d7/d9f/tutorial_linux_install.html
+
+packages installeren. 
+1. [compiler] sudo apt-get install build-essential
+2. [required] sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+3. [optional] sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev
+directory aanmaken waar de source files in komen
+[[/documents/opencv/opencv4.5]] 

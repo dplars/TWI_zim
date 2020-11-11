@@ -18,6 +18,14 @@ the commands to be executed are the following
 | nrled            | +/-xx                                                        | change mode and turn led on/off                                |
 |                  |                                                              |                                                                |
 | brightness       | -xx                                                          | lower brightness with xx amount                                |
-| brightness	|+xx	| increment brightness with
-|brightness	|xx		| set brightness to value xx		| 
+| brightness       | +xx                                                          | increment brightness with                                      |
+| brightness       |                                                              |                                                                |
+| brightness       | xx                                                           | set brightness to value xx                                     |
+|                  |                                                              |                                                                |
+| loop             | 1                                                            | loop over all leds of set strip                                |
+| loop             | 2                                                            | loop over all leds of two strips                               |
+|                  |                                                              |                                                                |
+| startupleds      |                                                              | play all red, all green and all blue on two ledstrips          |
+|                  |                                                              |                                                                |
+| 
 
