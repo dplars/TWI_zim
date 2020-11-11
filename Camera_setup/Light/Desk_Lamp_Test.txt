@@ -1,5 +1,5 @@
 Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
+Wiki-Format: zim 0.6
 Creation-Date: 2020-10-28T13:19:55+01:00
 
 ====== Desk Lamp Test ======
@@ -7,7 +7,8 @@ Created Wednesday 28 October 2020
 
 First test using following setup:
 
-{{file:///media/psf/Home/Documents/Lars.nosync/Documents/School/1Ma%20ing/Masterproef/Images/Testopstellingen/Eerste%20testopstelling/eerste_setup_andere_richting_beeld2.jpeg?height=300}}
+{{file:///media/psf/Home/Documents/Lars.nosync/Documents/School/1Ma%20ing/Masterproef/Images/Testopstellingen/Eerste%20testopstelling/eerste_setup_andere_richting_beeld2.jpeg?height=300}}{{./IMG_9183.jpeg?height=300}}
+
 This setup was using the top light of the camera. This light was good to be able to adjust the camera. Without the light, the errornous places where more visible. But the desk lamp had to much brightness. Therefor and to test other lighting conditions a led strip will be used for further tests. 
 
 The result with this setup can be seen in the above picture on the screen. here can be seen that there is a bright white background behind the tool. In a new setup there will be tried to make the background as dark as possible to make sure only the bad part of the tool is clearly lighted.
